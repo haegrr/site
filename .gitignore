@@ -1,6 +1,6 @@
-node_modules/
-public/
-.cache/
-test/e2e/screenshots/
-test/e2e/videos/
-coverage/
+/node_modules/
+/public/
+/.cache/
+/test/e2e/screenshots/
+/test/e2e/videos/
+/coverage/
