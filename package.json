@@ -9,7 +9,7 @@
     "clean": "rimraf public .cache",
     "build": "npm run clean && run-p build:*",
     "build:site": "gatsby build",
-    "build:resume": "mkdirp public && node scripts/export-resume.js src/resume.json public/resume.pdf",
+    "build:resume": "mkdirp public && node scripts/export-resume.mjs src/resume.json public/resume.pdf",
     "test:unit": "jest --runInBand",
     "test:e2e": "CYPRESS_SUPPORT=y npm run build && start-server-and-test 'gatsby serve -H 127.0.0.1' http://127.0.0.1:9000 cy:run",
     "spellcheck": "mdspell --en-us -anxr posts/*/*.md",

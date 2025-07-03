@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
-const puppeteer = require('puppeteer');
-const mime = require('mime');
-const { readFile } = require('fs').promises;
-const { dirname, resolve } = require('path');
+import puppeteer from 'puppeteer';
+import mime from 'mime';
+import { readFile } from 'node:fs/promises';
+import { dirname, resolve } from 'node:path';
 
 async function encodeDataURI (path) {
   const data = await readFile(path, 'base64');
@@ -17,7 +17,7 @@ async function renderResume (path, theme) {
     const picturePath = resolve(dirname(path), resume.basics.picture);
     resume.basics.picture = await encodeDataURI(picturePath);
   }
-  return require(`jsonresume-theme-${theme}`).render(resume);
+  return (await import(`jsonresume-theme-${theme}`)).render(resume);
 }
 
 async function printToPDF (html, path, opts = {}) {
