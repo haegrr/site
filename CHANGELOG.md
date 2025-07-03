@@ -1,3 +1,10 @@
+## 1.6.3 (2025-07-03)
+
+
+### Bug Fixes
+
+* **resume:** restore PDF resume rendering
+
 ## 1.6.2 (2025-06-27)
 
 
