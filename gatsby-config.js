@@ -1,9 +1,9 @@
-const package = require('./package.json');
+const pkg = require('./package.json');
 
 module.exports = {
   siteMetadata: {
     title: 'Martin',
-    version: package.version,
+    version: pkg.version,
     description: 'Programming, video games, music, electronics engineering, and all things DIY.',
     siteUrl: 'https://ma.rtin.foo',
     author: 'Martin Häger',
