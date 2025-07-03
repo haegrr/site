@@ -63,7 +63,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^30.0.4",
     "babel-preset-gatsby": "^3.14.0",
-    "cypress": "^10.11.0",
+    "cypress": "^14.5.1",
     "eslint-plugin-cypress": "^2.13.3",
     "eslint-plugin-gatsby": "github:haegrr/gatsby-plugin-eslint-config#de1e191",
     "gatsby-cypress": "^3.14.0",
