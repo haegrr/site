@@ -1,3 +1,12 @@
+## 1.6.4 (2025-07-08)
+
+
+### Bug Fixes
+
+* **deps:** bump mermaid from 11.7.0 to 11.8.0
+* **deps:** bump mermaid from 11.8.0 to 11.8.1
+* **deps:** use bash from path in update script
+
 ## 1.6.3 (2025-07-03)
 
 
