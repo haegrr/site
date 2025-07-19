@@ -79,7 +79,7 @@
     "puppeteer": "^24.14.0",
     "regenerator-runtime": "^0.14.1",
     "rimraf": "^6.0.1",
-    "semantic-release": "^24.2.6",
+    "semantic-release": "^24.2.7",
     "slugify": "^1.6.4",
     "start-server-and-test": "^2.0.12",
     "wrangler": "^4.25.0",
