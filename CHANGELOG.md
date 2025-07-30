@@ -1,3 +1,11 @@
+## 1.6.5 (2025-07-30)
+
+
+### Bug Fixes
+
+* **deps:** bump less from 4.3.0 to 4.4.0
+* **deps:** bump mermaid from 11.8.1 to 11.9.0
+
 ## 1.6.4 (2025-07-08)
 
 
