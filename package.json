@@ -58,7 +58,7 @@
     "@semantic-release/git": "^10.0.1",
     "@simonsmith/cypress-image-snapshot": "^9.1.0",
     "@testing-library/cypress": "^8.0.3",
-    "@testing-library/jest-dom": "^6.6.4",
+    "@testing-library/jest-dom": "^6.7.0",
     "@testing-library/react": "^16.3.0",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^30.0.5",
