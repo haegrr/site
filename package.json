@@ -82,7 +82,7 @@
     "semantic-release": "^24.2.7",
     "slugify": "^1.6.4",
     "start-server-and-test": "^2.0.13",
-    "wrangler": "^4.31.0",
+    "wrangler": "^4.32.0",
     "yeoman-generator": "^7.5.1",
     "yo": "^5.1.0"
   },
