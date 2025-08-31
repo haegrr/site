@@ -15,7 +15,7 @@ updates:
   - dependency-name: "@simonsmith/cypress-image-snapshot"
     versions: [">=10.0.0"]
   - dependency-name: "eslint-plugin-cypress"
-    versions: [">=5.0.0"]
+    versions: [">=4.0.0"]
   commit-message:
     prefix: fix
     prefix-development: chore
