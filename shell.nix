@@ -1,4 +1,4 @@
-with (import <nixpkgs> { });
+{ mkShell, nodejs_22 }:
 mkShell {
-  nativeBuildInputs = [ nodejs_22 ];
+  packages = [ nodejs_22 ];
 }
