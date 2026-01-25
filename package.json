@@ -66,7 +66,7 @@
     "cypress": "^10.11.0",
     "eslint-plugin-cypress": "^2.13.3",
     "eslint-plugin-gatsby": "github:haegrr/gatsby-plugin-eslint-config#de1e191",
-    "gatsby-cypress": "^3.14.0",
+    "gatsby-cypress": "^3.15.0",
     "generator-license": "^5.7.1",
     "identity-obj-proxy": "^3.0.0",
     "is-ci": "^4.1.0",
