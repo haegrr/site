@@ -1,3 +1,26 @@
+## 1.6.6 (2026-01-25)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby from 5.14.5 to 5.14.6
+* **deps:** bump gatsby from 5.14.6 to 5.15.0
+* **deps:** bump gatsby-plugin-feed from 5.14.0 to 5.15.0
+* **deps:** bump gatsby-plugin-image from 3.14.0 to 3.15.0
+* **deps:** bump gatsby-plugin-less from 7.14.0 to 7.15.0
+* **deps:** bump gatsby-plugin-manifest from 5.14.0 to 5.15.0
+* **deps:** bump gatsby-plugin-offline from 6.14.0 to 6.15.0
+* **deps:** bump gatsby-remark-copy-linked-files from 6.14.0 to 6.15.0
+* **deps:** bump gatsby-remark-images from 7.14.0 to 7.15.0
+* **deps:** bump gatsby-remark-prismjs from 7.14.0 to 7.15.0
+* **deps:** bump gatsby-remark-responsive-iframe from 6.14.0 to 6.15.0
+* **deps:** bump gatsby-source-filesystem from 5.14.0 to 5.15.0
+* **deps:** bump gatsby-transformer-remark from 6.14.0 to 6.15.0
+* **deps:** bump gatsby-transformer-sharp from 5.14.0 to 5.15.0
+* **deps:** bump less from 4.4.0 to 4.4.1
+* **deps:** bump mermaid from 11.10.0 to 11.10.1
+* **deps:** bump mermaid from 11.9.0 to 11.10.0
+
 ## 1.6.5 (2025-07-30)
 
 
